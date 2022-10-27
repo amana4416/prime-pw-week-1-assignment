@@ -45,3 +45,7 @@ p {
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.list {
+    margin-left: 25px;
+}
