@@ -32,7 +32,7 @@ p {
     font-size: 15px;
 }
 /* Put a border around your image */
-.picture {
+img {
     height: 250px;
     width: 225px;
     margin-top: 50px;
@@ -42,8 +42,8 @@ p {
 }
 
 /* Change the font-family of your list */
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ul {
+    font-family: cursive;
 }
 
 .list {
